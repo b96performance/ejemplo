@@ -4,3 +4,5 @@ sal
 zanahoria
 pan
 galletas
+queso
+jamón
