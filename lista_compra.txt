@@ -2,3 +2,5 @@ manzanas
 aceite
 sal
 zanahoria
+pan
+galletas
