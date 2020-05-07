@@ -7,7 +7,7 @@ galletas
 queso
 jamón
 
-## Frutas
+Frutas
 
 Naranja 
 Pera
