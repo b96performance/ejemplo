@@ -12,3 +12,9 @@ Frutas
 Naranja 
 Pera
 Manzanasrojas
+
+carne
+
+vaca
+cerdo
+cordero
