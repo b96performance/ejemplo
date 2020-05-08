@@ -27,3 +27,10 @@ pollo
 paloma
 loro
 gaviota
+
+zoologico
+
+mono
+loro
+hipopotamo
+manati
