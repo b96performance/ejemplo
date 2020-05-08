@@ -18,3 +18,9 @@ carne
 vaca
 cerdo
 cordero
+
+aves
+
+faisan
+pavo
+pollo
