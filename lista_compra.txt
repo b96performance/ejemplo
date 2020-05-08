@@ -24,3 +24,6 @@ aves
 faisan
 pavo
 pollo
+paloma
+loro
+gaviota
