@@ -11,9 +11,12 @@ Frutas
 
 Naranja 
 Pera
-Manzanasrojas
+Manzanas_rojas
+Pomelo
+Toronja
+uva
 
-carne
+Carne
 
 vaca
 cerdo
